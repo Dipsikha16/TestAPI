@@ -5,11 +5,12 @@
 
 ## API Details
 Integrtaion using for Rest Call Mock Data https://jsonplaceholder.typicode.com/
-Post Controller
+
+### Post Controller
   - Get Post by id
   - create post
   - update post
   - delete post
 
-User Controller
+### User Controller
   - Get User
